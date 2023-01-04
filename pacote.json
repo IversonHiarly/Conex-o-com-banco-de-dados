@@ -1,0 +1,17 @@
+{
+  "nome" : " teste-expresso " ,
+  "versão" : " 1.0.0 " ,
+  "descrição" : " " ,
+  "principal" : " index.js " ,
+  "scripts" : {
+    "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "
+  },
+  "autor" : " " ,
+  "licença" : " ISC " ,
+  "dependências" : {
+    "expresso" : " ^4.18.2 " ,
+    "mysql2" : " ^2.3.3 " ,
+    "salvar" : " ^2.9.0 " ,
+    "sequelize" : " ^6.25.6 "
+  }
+}
